@@ -1,6 +1,6 @@
 # genarts
 
-A Quil sketch designed to ... well, that part is up to you.
+A Quil sketch designed to try Quil.
 
 ## Usage
 
