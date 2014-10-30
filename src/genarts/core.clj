@@ -1,4 +1,4 @@
-(ns genarts.core
+(ns genarts.sketches.fifteen
   (:require [quil.core :as q]
             [quil.middleware :as m]))
 
